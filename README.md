@@ -1,6 +1,6 @@
 # shell-scripts
 
-To use the scripts, run `cd ~`, `chmod u+x \path\to\the\file\example-file.command`, and then use it in any git cloned folder. Ex: `\path\to\the\file\example-file.command var1 var 2 ...`
+To use the scripts, run `cd ~`, `chmod u+x \path\to\the\file\example-file.command`, and then use it in any git cloned folder. Ex: `\path\to\the\file\example-file.command var1 var2 ...`
 
 `pull-rebase.command`: used to rebase on top of code and fast-forward
 - assumes remote is set up for upstream
